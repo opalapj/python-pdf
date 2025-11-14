@@ -19,3 +19,11 @@ Follow: https://pypdf.readthedocs.io/en/latest/user/installation.html#installati
 ```bash
 pdm add pypdf[full]
 ```
+
+### `PyMuPDF`
+
+Follow: https://pymupdf.readthedocs.io/en/latest/installation.html#id1
+
+```bash
+pdm add pymupdf
+```

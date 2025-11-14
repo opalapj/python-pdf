@@ -5,7 +5,7 @@ authors = [
     {name = "Piotr Opała", email = "opalapj@gmail.com"},
 ]
 license = {text = "MIT"}
-dependencies = ["pypdf[full]>=6.2.0"]
+dependencies = ["pypdf[full]>=6.2.0", "pymupdf>=1.26.6"]
 requires-python = "==3.13.*"
 
 [tool.pdm]
