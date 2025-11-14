@@ -9,3 +9,13 @@ conversion & manipulation of PDF (and other) documents:
 [1]: https://pypdf.readthedocs.io/en/latest/index.html
 [2]: https://pymupdf.readthedocs.io/en/latest/
 [3]: https://tabula-py.readthedocs.io/en/latest/
+
+## Installation
+
+### `pypdf`
+
+Follow: https://pypdf.readthedocs.io/en/latest/user/installation.html#installation
+
+```bash
+pdm add pypdf[full]
+```
