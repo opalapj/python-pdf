@@ -27,3 +27,11 @@ Follow: https://pymupdf.readthedocs.io/en/latest/installation.html#id1
 ```bash
 pdm add pymupdf
 ```
+
+### `tabula-py`
+
+Follow: https://tabula-py.readthedocs.io/en/latest/getting_started.html#installation
+
+```bash
+pdm add tabula-py[jpype]
+```
